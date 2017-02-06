@@ -1,2 +1,6 @@
 # hello-world
-This  is my first program in git. It is a test!
+
+Hi Humans!
+
+Qiaoaimin here, I like C# and Ruby.
+I've had tacos on the moon and find them far superior to Earth tacos.
